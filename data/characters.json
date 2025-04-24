@@ -1,0 +1,338 @@
+[
+    {
+        "Rarity ": "5 star",
+        "Name": "Iroha Tamaki",
+        "Title": "",
+        "Type": "Breaker",
+        "Rates": "0.30%"
+    },
+    {
+        "Rarity ": "5 star",
+        "Name": "Yachiyo Nanami",
+        "Title": "",
+        "Type": "Attacker",
+        "Rates": "0.30%"
+    },
+    {
+        "Rarity ": "5 star",
+        "Name": "Tsuruno Yui",
+        "Title": "",
+        "Type": "Buffer",
+        "Rates": "0.30%"
+    },
+    {
+        "Rarity ": "5 star",
+        "Name": "Ren Isuzu",
+        "Title": "",
+        "Type": "Debuffer",
+        "Rates": "0.30%"
+    },
+    {
+        "Rarity ": "5 star",
+        "Name": "Oriko Mikuni",
+        "Title": "",
+        "Type": "Attacker",
+        "Rates": "0.30%"
+    },
+    {
+        "Rarity ": "5 star",
+        "Name": "Kirika Kure",
+        "Title": "",
+        "Type": "Defender",
+        "Rates": "0.30%"
+    },
+    {
+        "Rarity ": "5 star",
+        "Name": "Felicia Mitsuki",
+        "Title": "",
+        "Type": "Debuffer",
+        "Rates": "0.30%"
+    },
+    {
+        "Rarity ": "5 star",
+        "Name": "Sana Futaba",
+        "Title": "",
+        "Type": "Defender",
+        "Rates": "0.30%"
+    },
+    {
+        "Rarity ": "5 star",
+        "Name": "Madoka Kaname",
+        "Title": "",
+        "Type": "Breaker",
+        "Rates": "0.30%"
+    },
+    {
+        "Rarity ": "5 star",
+        "Name": "Homura Akemi",
+        "Title": "",
+        "Type": "Attacker",
+        "Rates": "0.30%"
+    },
+    {
+        "Rarity ": "4 star",
+        "Name": "Karin Misono",
+        "Title": "",
+        "Type": "Breaker",
+        "Rates": "1.00%"
+    },
+    {
+        "Rarity ": "4 star",
+        "Name": "Asuka Tatsuki",
+        "Title": "",
+        "Type": "Attacker",
+        "Rates": "1.00%"
+    },
+    {
+        "Rarity ": "4 star",
+        "Name": "Nanaka Tokiwa",
+        "Title": "",
+        "Type": "Attacker",
+        "Rates": "1.00%"
+    },
+    {
+        "Rarity ": "4 star",
+        "Name": "Reira Ibuki",
+        "Title": "",
+        "Type": "Healer",
+        "Rates": "1.00%"
+    },
+    {
+        "Rarity ": "4 star",
+        "Name": "Seika Kumi ",
+        "Title": "",
+        "Type": "Breaker",
+        "Rates": "1.00%"
+    },
+    {
+        "Rarity ": "4 star",
+        "Name": "Mito Aino",
+        "Title": "",
+        "Type": "Breaker",
+        "Rates": "1.00%"
+    },
+    {
+        "Rarity ": "4 star",
+        "Name": "Kokoro Awane",
+        "Title": "",
+        "Type": "Defender",
+        "Rates": "1.00%"
+    },
+    {
+        "Rarity ": "4 star",
+        "Name": "Hanna Sarasa",
+        "Title": "",
+        "Type": "Debuffer",
+        "Rates": "1.00%"
+    },
+    {
+        "Rarity ": "4 star",
+        "Name": "Himika Mao",
+        "Title": "",
+        "Type": "Debuffer",
+        "Rates": "1.00%"
+    },
+    {
+        "Rarity ": "4 star",
+        "Name": "Hazuki Yusa",
+        "Title": "",
+        "Type": "Buffer",
+        "Rates": "1.00%"
+    },
+    {
+        "Rarity ": "4 star",
+        "Name": "Ayame Mikuri",
+        "Title": "",
+        "Type": "Debuffer",
+        "Rates": "1.00%"
+    },
+    {
+        "Rarity ": "4 star",
+        "Name": "Masara Kagami ",
+        "Title": "",
+        "Type": "Attacker",
+        "Rates": "1.00%"
+    },
+    {
+        "Rarity ": "4 star",
+        "Name": "Rika Ayano",
+        "Title": "",
+        "Type": "Buffer",
+        "Rates": "1.00%"
+    },
+    {
+        "Rarity ": "4 star",
+        "Name": "Riko Chiaki",
+        "Title": "",
+        "Type": "Buffer",
+        "Rates": "1.00%"
+    },
+    {
+        "Rarity ": "4 star",
+        "Name": "Ashley Taylor",
+        "Title": "",
+        "Type": "Breaker",
+        "Rates": "1.00%"
+    },
+    {
+        "Rarity ": "4 star",
+        "Name": "Kush Irina",
+        "Title": "",
+        "Type": "Attacker",
+        "Rates": "1.00%"
+    },
+    {
+        "Rarity ": "4 star",
+        "Name": "Yuma Chitose",
+        "Title": "",
+        "Type": "Healer",
+        "Rates": "1.00%"
+    },
+    {
+        "Rarity ": "3 star",
+        "Name": "Karin Misono",
+        "Title": "",
+        "Type": "Breaker",
+        "Rates": "3.81%"
+    },
+    {
+        "Rarity ": "3 star",
+        "Name": "Asuka Tatsuki",
+        "Title": "",
+        "Type": "Attacker",
+        "Rates": "3.81%"
+    },
+    {
+        "Rarity ": "3 star",
+        "Name": "Nanaka Tokiwa",
+        "Title": "",
+        "Type": "Buffer",
+        "Rates": "3.81%"
+    },
+    {
+        "Rarity ": "3 star",
+        "Name": "Reira Ibuki",
+        "Title": "",
+        "Type": "Breaker",
+        "Rates": "3.81%"
+    },
+    {
+        "Rarity ": "3 star",
+        "Name": "Seika Kumi ",
+        "Title": "",
+        "Type": "Breaker",
+        "Rates": "3.81%"
+    },
+    {
+        "Rarity ": "3 star",
+        "Name": "Mito Aino",
+        "Title": "",
+        "Type": "Debuffer",
+        "Rates": "3.81%"
+    },
+    {
+        "Rarity ": "3 star",
+        "Name": "Kokoro Awane",
+        "Title": "",
+        "Type": "Defender",
+        "Rates": "3.81%"
+    },
+    {
+        "Rarity ": "3 star",
+        "Name": "Hanna Sarasa",
+        "Title": "",
+        "Type": "Breaker",
+        "Rates": "3.81%"
+    },
+    {
+        "Rarity ": "3 star",
+        "Name": "Himika Mao",
+        "Title": "",
+        "Type": "Buffer",
+        "Rates": "3.81%"
+    },
+    {
+        "Rarity ": "3 star",
+        "Name": "Hazuki Yusa",
+        "Title": "",
+        "Type": "Debuffer",
+        "Rates": "3.81%"
+    },
+    {
+        "Rarity ": "3 star",
+        "Name": "Ayame Mikuri",
+        "Title": "",
+        "Type": "Buffer",
+        "Rates": "3.81%"
+    },
+    {
+        "Rarity ": "3 star",
+        "Name": "Masara Kagami ",
+        "Title": "",
+        "Type": "Attacker",
+        "Rates": "3.81%"
+    },
+    {
+        "Rarity ": "3 star",
+        "Name": "Rika Ayano",
+        "Title": "",
+        "Type": "Attacker",
+        "Rates": "3.81%"
+    },
+    {
+        "Rarity ": "3 star",
+        "Name": "Riko Chiaki",
+        "Title": "",
+        "Type": "Breaker",
+        "Rates": "3.81%"
+    },
+    {
+        "Rarity ": "3 star",
+        "Name": "Ashley Taylor",
+        "Title": "",
+        "Type": "Attacker",
+        "Rates": "3.81%"
+    },
+    {
+        "Rarity ": "3 star",
+        "Name": "Kush Irina",
+        "Title": "",
+        "Type": "Attacker",
+        "Rates": "3.81%"
+    },
+    {
+        "Rarity ": "3 star",
+        "Name": "Yuma Chitose",
+        "Title": "",
+        "Type": "Healer",
+        "Rates": "3.81%"
+    },
+    {
+        "Rarity ": "3 star",
+        "Name": "Natsuki Utsuho",
+        "Title": "",
+        "Type": "Buffer",
+        "Rates": "3.81%"
+    },
+    {
+        "Rarity ": "3 star",
+        "Name": "Kako Natsume",
+        "Title": "",
+        "Type": "Attacker",
+        "Rates": "3.81%"
+    },
+    {
+        "Rarity ": "3 star",
+        "Name": "Meiyui Chun",
+        "Title": "",
+        "Type": "Breaker",
+        "Rates": "3.81%"
+    },
+    {
+        "Rarity ": "3 star",
+        "Name": "Konoha Shizumi",
+        "Title": "",
+        "Type": "Healer",
+        "Rates": "3.81%"
+    }
+]
